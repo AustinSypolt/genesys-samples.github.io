@@ -16,6 +16,14 @@
 	"content": "Learn how deploy a Genesys Cloud Architect flow and its dependent objects using Archy and CX as Code to manage Architect flows and dependent objects as plain text files that can be checked into source control.\n"
 },
 {
+	"uri": "https://genesys-samples.github.io/card/gdpr-app-basics/",
+	"title": "Create and host your own GDPR client application",
+	"tags": ["Cloud", "GDPR"],
+	"categories": ["Developer"],
+	"description": "Learn how to create your very own GDPR client application and embed it into your Genesys Cloud organization",
+	"content": "Learn how to create your very own GDPR client application and embed it into your Genesys Cloud organization\n"
+},
+{
 	"uri": "https://genesys-samples.github.io/card/gride-demo/",
 	"title": "Genesys Cloud CX™️ Harbor Tour",
 	"tags": ["Cloud", "Integrations"],
