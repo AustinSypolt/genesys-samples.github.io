@@ -8,6 +8,14 @@
 	"content": "Learn how to deploy and configure Genesys Multicloud CX™ with a step-by-step guide and automated provisioning\n"
 },
 {
+	"uri": "https://workshop.genesys.com/card/agent-assist/",
+	"title": "Genesys Cloud CX™️ &amp; Google",
+	"tags": ["Cloud", "Integrations", "AI", "Bots", "Agent Assist"],
+	"categories": ["Fundamentals", "Google Cloud"],
+	"description": "See the power of Genesys Cloud CX and Google CCAI. Set up both integrations with Google Agent Assist and Google DialogFlow CX into your own Genesys Cloud CX instance.",
+	"content": "See the power of Genesys Cloud CX and Google CCAI. Set up both integrations with Google Agent Assist and Google DialogFlow CX into your own Genesys Cloud CX instance.\n"
+},
+{
 	"uri": "https://workshop.genesys.com/card/cxascode-basics/",
 	"title": "Automation with CX as Code",
 	"tags": ["Terraform", "Lambda", "Comprehend", "Architect", "Flows", "Cloud"],

@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Genesys Cloud CX™️ &amp; Google</title>
+      <link>https://workshop.genesys.com/card/agent-assist/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://workshop.genesys.com/card/agent-assist/</guid>
+      <description>See the power of Genesys Cloud CX and Google CCAI. Set up both integrations with Google Agent Assist and Google DialogFlow CX into your own Genesys Cloud CX instance.</description>
+    </item>
+    
+    <item>
       <title>Automation with CX as Code</title>
       <link>https://workshop.genesys.com/card/cxascode-basics/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
