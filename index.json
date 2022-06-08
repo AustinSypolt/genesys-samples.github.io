@@ -1,6 +1,6 @@
 [
 {
-	"uri": "https://genesys-samples.github.io/card/multicloud-basics/",
+	"uri": "https://workshop.genesys.com/card/multicloud-basics/",
 	"title": "Getting Started with Genesys Multicloud CX™",
 	"tags": ["Multicloud", "CX"],
 	"categories": ["Fundamentals"],
@@ -8,7 +8,7 @@
 	"content": "Learn how to deploy and configure Genesys Multicloud CX™ with a step-by-step guide and automated provisioning\n"
 },
 {
-	"uri": "https://genesys-samples.github.io/card/cxascode-basics/",
+	"uri": "https://workshop.genesys.com/card/cxascode-basics/",
 	"title": "Automation with CX as Code",
 	"tags": ["Terraform", "Lambda", "Comprehend", "Architect", "Flows", "Cloud"],
 	"categories": ["Fundmanetals", "Developer"],
@@ -16,7 +16,7 @@
 	"content": "Learn how deploy a Genesys Cloud Architect flow and its dependent objects using Archy and CX as Code to manage Architect flows and dependent objects as plain text files that can be checked into source control.\n"
 },
 {
-	"uri": "https://genesys-samples.github.io/card/gdpr-app-basics/",
+	"uri": "https://workshop.genesys.com/card/gdpr-app-basics/",
 	"title": "Create and host your own GDPR client application",
 	"tags": ["Cloud", "GDPR"],
 	"categories": ["Developer"],
@@ -24,8 +24,8 @@
 	"content": "Learn how to create your very own GDPR client application and embed it into your Genesys Cloud organization\n"
 },
 {
-	"uri": "https://genesys-samples.github.io/card/gride-demo/",
-	"title": "Genesys Cloud CX™️ Harbor Tour",
+	"uri": "https://workshop.genesys.com/card/gride-demo/",
+	"title": "Genesys Cloud CX™️ Channel Setup",
 	"tags": ["Cloud", "Integrations"],
 	"categories": ["Fundamentals"],
 	"description": "Learn how to setup &amp; configure Genesys Cloud CX™️",
